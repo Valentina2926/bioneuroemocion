@@ -87,10 +87,33 @@ main.cuerpo{
     width: 75vw;
     margin: auto;
     max-width: 8px;
-    min-width: 400px;
+    min-width: 300px;
     box-sizing: border-box;
 }
 
+.happy {
+    height: 200;
+    margin-right: 300px;
+    display: flex;
+    align-items: center;
+    width: 75vw;
+    margin: auto;
+    max-width: 8px;
+    min-width: 300px;
+    box-sizing: border-box;
+}
+
+.terapia {
+    height: 200;
+    margin-right: 300px;
+    display: flex;
+    align-items: center;
+    width: 75vw;
+    margin: auto;
+    max-width: 8px;
+    min-width: 300px;
+    box-sizing: border-box;
+}
 .azul {
     height: 200;
     margin-right: 300px;
@@ -99,7 +122,7 @@ main.cuerpo{
     width: 75vw;
     margin: auto;
     max-width: 8px;
-    min-width: 400px;
+    min-width: 300px;
     box-sizing: border-box;
 }
 
